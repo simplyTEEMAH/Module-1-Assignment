@@ -40,11 +40,11 @@ Develop a python and R program to facilitate the weekly payments of workers.
  https://bookdown.org/kochiuyu/Technical-Analysis-with-R/loop.html
  - Chatgpt. Exception Handling in R.
  https://chatgpt.com/
- - mahmus-fifi/python_module_lesson. How to create a README file in VS Code
+ - mahmus-fifi/python_module_lesson. How to create a README file in VS Code.
  https://www.youtube.com/watch?v=jeOfS90Flf8
  - Hilary Nyankudi. December 8, 2021. How to Write a Good README File for Your GitHub Project.
  https://www.freecodecamp.org/news/how-to-write-a-good-readme-file/
-- Kevin Stratvert. June 24, 2022. Git and Github Tutorial for Beginners
+- Kevin Stratvert. June 24, 2022. Git and Github Tutorial for Beginners.
  https://www.youtube.com/watch?v=tRZGeaHPoaw
 
 
