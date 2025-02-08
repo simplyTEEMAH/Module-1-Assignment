@@ -14,7 +14,7 @@ Develop a python and R program to facilitate the weekly payments of workers.
 - Download and install the latest version of python and RStudio on your computer.
 - Download and install the Visual Studio Code for python and R environments.
 - Install python and R extensions on Visual Studio Code to begin using python and R for coding.
-- Open the python and R assignment as both python and R files.
+- Open the folder BAN6240 module 1 in Visual Studio Code to view the python and R files.
 
 # 4. References
  
